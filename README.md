@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eric Niyonkuru</h1>
-<h3 align="center">A passionate full-stack developer and software entrepreneur from Rwanda 🇷🇼</h3>
+<h3 align="center">A passionate Senior Software Engineer, full-stack developer, and software entrepreneur from Rwanda 🇷🇼</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericniyon&label=Profile%20views&color=0e75b6&style=flat" alt="ericniyon" /> </p>
 
